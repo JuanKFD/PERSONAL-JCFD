@@ -1,0 +1,249 @@
+﻿{
+    "Url": "www.epdata.es/porcentaje-gas-natural-importado-rusia-paises-europeos-2020/02d8acdf-f5b9-4b53-95fc-44824cf3a695",
+    "Respuesta": {
+        "Id": "02d8acdf-f5b9-4b53-95fc-44824cf3a695",
+        "Url": "www.epdata.es/porcentaje-gas-natural-importado-rusia-paises-europeos-2020/02d8acdf-f5b9-4b53-95fc-44824cf3a695",
+        "Titulo": "Porcentaje de gas natural importado de Rusia por países europeos en 2020",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "% de Rusia sobre total de importaciones de gas natural",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Eurostat",
+                    "Clasificacion": null,
+                    "Unidad": "%",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Alemania",
+                            "Valor": 65.22,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Bélgica",
+                            "Valor": 6.51,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Bosnia y Herzegovina",
+                            "Valor": 100,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Bulgaria",
+                            "Valor": 75.23,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Eslovaquia",
+                            "Valor": 85.45,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Eslovenia",
+                            "Valor": 8.69,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "España",
+                            "Valor": 10.43,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Estonia",
+                            "Valor": 46.22,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Finlandia",
+                            "Valor": 67.37,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Francia",
+                            "Valor": 16.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Grecia",
+                            "Valor": 39.04,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Hungría",
+                            "Valor": 95,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Italia",
+                            "Valor": 43.25,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Letonia",
+                            "Valor": 100,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Liechtenstein",
+                            "Valor": 47,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Lituania",
+                            "Valor": 41.79,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Luxemburgo",
+                            "Valor": 27.23,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Macedonia del Norte",
+                            "Valor": 100,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Moldavia",
+                            "Valor": 100,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Noruega",
+                            "Valor": 29.96,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Países Bajos",
+                            "Valor": 26.33,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Polonia",
+                            "Valor": 54.88,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Portugal",
+                            "Valor": 9.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "R. Checa",
+                            "Valor": 100,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Rumanía",
+                            "Valor": 44.76,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Serbia",
+                            "Valor": 69.03,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Suecia",
+                            "Valor": 12.74,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "Turquía",
+                            "Valor": 33.59,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
